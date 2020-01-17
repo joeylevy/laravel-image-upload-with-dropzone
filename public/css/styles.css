@@ -1,0 +1,17 @@
+
+.dz-default{
+    /*border: 3px dashed #6e6c1e;*/ /*for troubleshooting location of div */
+    padding:10px;
+    text-align: center;
+    width:300px;
+    height:300px;
+    /*display:none;*/
+    position:absolute;
+    top:0px;
+
+}
+.dz-default>span{display:none;}
+
+.dz-available{
+    border: 3px dashed #2a286e;
+}
